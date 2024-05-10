@@ -1,2 +1,2 @@
-# Imersao_Chatbot
+# Imersao_LLM
 Repositório Imersão IA Alura
